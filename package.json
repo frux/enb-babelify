@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/frux/enb-babelify/issues"
   },
-  "homepage": "https://github.com/frux/enb-babelify#readme"
+  "homepage": "https://github.com/frux/enb-babelify#readme",
+  "dependencies": {
+    "babel-core": "^6.5.1"
+  }
 }

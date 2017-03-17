@@ -11,7 +11,7 @@ Process JavaScript file by Babel.
 ```
 
 ```js
-var babelBrowserTech = require('enb-babel/techs/browser-js'),
+var babelBrowserTech = require('enb-babelify/techs/browser-js'),
 	fileProvideTech = require('enb/techs/file-provider'),
 	bemTechs = require('enb-bem-techs');
  
